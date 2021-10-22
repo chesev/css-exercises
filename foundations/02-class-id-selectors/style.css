@@ -1,0 +1,22 @@
+/* style.css */
+
+.odd-number,
+.three {
+    background-color: rgb(247, 151, 151);
+    font: verdana; sans-serif;
+}
+
+#even-number{
+    color: blue;
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#even-four{
+    background-color: rgb(160, 243, 160);
+    font-size: 24px;
+    font-weight: bold;
+}
