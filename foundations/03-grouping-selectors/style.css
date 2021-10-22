@@ -1,0 +1,17 @@
+/* style.css */
+
+.delta{
+    background-color: black;
+    color: white;
+}
+
+.variant {
+    background-color: yellow;
+}
+
+.delta,
+.variant {
+    font-size: 28px;
+    font-family: Helvetica, "Times New roman", sans-serif;
+}
+
