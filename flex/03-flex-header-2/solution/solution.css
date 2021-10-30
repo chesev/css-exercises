@@ -55,8 +55,7 @@ ul {
   align-items: center;
   padding: 8px;
 }
-
-ul {
+ ul {
   display: flex;
   margin: 0;
   padding: 0;
@@ -67,4 +66,4 @@ ul {
   display: flex;
   align-items: center;
   gap: 16px;
-}
+} 
